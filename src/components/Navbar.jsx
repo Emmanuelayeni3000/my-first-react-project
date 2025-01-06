@@ -8,7 +8,7 @@ const Navbar = () => {
   }
 
   return (
-    <nav className='fixed top-0 left-0 w-full bg-black text-white px-8 md:px-16 lg:px-24 z-50'>
+    <nav className='top-0 left-0 w-full bg-black text-white px-8 md:px-16 lg:px-24 z-50'>
       <div className='w-full mx-auto py-2 flex justify-between items-center'>
         <div className='text-2xl font-bold'>EawebCraft</div>
         <div className='hidden md:flex space-x-6'>
