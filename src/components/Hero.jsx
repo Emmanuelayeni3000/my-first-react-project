@@ -13,7 +13,11 @@ const Hero = () => {
         <h1 className='text-2xl sm:text-4xl font-bold'>
           I'm{" "}
           <span className='text-transparent bg-clip-text bg-gradient-to-r from-green-400 to-blue-600'>
-            Emmanuel Ayeni
+            Emmanuel Ayeni 
+          </span>
+          , also known as , 
+          <span className='text-transparent bg-clip-text bg-gradient-to-r from-green-400 to-blue-600'>
+            EawebCraft
           </span>
           , a Front-End Developer
         </h1>
